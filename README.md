@@ -1,5 +1,5 @@
 # Octoprint rootless
-My take of rootless octoprint container. Probably best to use official octoprint/octoprint:minimal image instead but I needed to some things differenty to make this work with https://github.com/jarpatus/docker-octocam/ .
+My take of rootless octoprint container. Probably best to use official octoprint/octoprint:minimal image instead but I needed to some things differenty to make this work with https://github.com/jarpatus/docker-octocam-rootless/ .
 
 # Compose file
 
